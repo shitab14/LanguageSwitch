@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LanguageSwitch</string>
+
+    <string name="current_language">Default</string>
+    <string name="current_region">Default</string>
+    <string name="tab_title_name">My App Title</string>
+    <string name="tab_subtitle_name">My App Subtitle</string>
+    <string name="text_change_language">Change Language</string>
+    <string name="text_en_rUS">en-rUS</string>
+    <string name="text_ar_rAE">ar-rAE</string>
+    <string name="text_to_default">to default</string>
+    <string name="text_dummy">Default: This is a dummy text for testing language, according to region and how it looks on the app. </string>
+
+</resources>

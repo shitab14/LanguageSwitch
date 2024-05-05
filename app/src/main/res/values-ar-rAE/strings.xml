@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LanguageSwitch</string>
+
+    <string name="current_language">عربي</string>
+    <string name="current_region">الإمارات العربية المتحدة</string>
+    <string name="tab_title_name">عنوان تطبيقي</string>
+    <string name="tab_subtitle_name">الترجمة الخاصة بتطبيقي</string>
+    <string name="text_change_language">Change Language</string>
+    <string name="text_en_rUS">en-rUS</string>
+    <string name="text_ar_rAE">ar-rAE</string>
+    <string name="text_to_default">to default</string>
+    <string
+        name="text_dummy"
+
+        >ar-UAE: هذا نص وهمي لاختبار اللغة، حسب المنطقة وكيف يظهر على التطبيق.</string>
+
+</resources>
